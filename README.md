@@ -1,10 +1,20 @@
 # Hi, I'm Sanket! 👋
+ 
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:kenkirito"></a>
+</p>
+       
+       100,000,000,000,000,0        83,333,333,333,333.33      19,230,769,230,769.23      120,192,307,692.31   33386752.136752778 
+       
+
+<img src="https://media2.giphy.com/media/b29IZK1dP4aWs/giphy.gif?cid=ecf05e4722opfk6at9dd9f962aco2x2plslyol4jfyz0yw3o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%" /> 
 
 Welcome to my GitHub profile! I'm a passionate software engineer, currently focusing on Java Spring Boot and cloud technologies like aws and k8s. I love learning new technologies and solving problems with code. Here's a bit about me and the work I do.
 
 <p align="left"> <a href="https://twitter.com/sanketrakshe10" target="blank"><img src="https://img.shields.io/twitter/follow/sanketrakshe10?logo=twitter&style=for-the-badge" alt="sanketrakshe10" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **kubernetes** and **three js**
+- 💬 Ask me about anything coding, anime
 
 - 📫 How to reach me **sanket.rakshe@outlook.com**
 
@@ -23,3 +33,16 @@ Welcome to my GitHub profile! I'm a passionate software engineer, currently focu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketrakshe&show_icons=true&locale=en" alt="sanketrakshe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketrakshe&" alt="sanketrakshe" /></p>
+
+
+<div align="center">
+
+[![][banner-url]][repo-url]  
+
+
+  
+
+</div>
+
+[repo-url]: https://github.com/SanketRakshe
+[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif 
